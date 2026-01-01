@@ -9,6 +9,11 @@
     "devinstall": "zx ../../devinstall.mjs -- node server.js --dev",
     "lint": "eslint . --ext .js,.jsx --fix"
   },
+  "nodemonConfig": {
+  "ignore": ["*"],
+  "watch": [],
+  "ext": "noop"
+},
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2",

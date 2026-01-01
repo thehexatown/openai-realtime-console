@@ -1,4 +1,4 @@
-# OpenAI Realtime Console
+# OpenAI Realtime Console.
 
 This is an example application showing how to use the [OpenAI Realtime API](https://platform.openai.com/docs/guides/realtime) with [WebRTC](https://platform.openai.com/docs/guides/realtime-webrtc).
 

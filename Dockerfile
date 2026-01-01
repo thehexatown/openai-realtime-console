@@ -19,4 +19,4 @@ ENV PORT=3000
 EXPOSE 3000
 
 # Run in development mode (bypasses build issues)
-CMD ["node", "server.js"]
+CMD ["npm", "run", "dev"]
